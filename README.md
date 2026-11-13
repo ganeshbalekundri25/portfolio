@@ -102,13 +102,13 @@ Place the workflow at `.github/workflows/main.yaml`, commit, and push to `main`.
 ![Live portfolio](images/Screenshot%202026-11-09%20143627.png)
 
 ### Successful GitHub Actions run
-![GitHub Actions run](screenshots/github-actions-run.png)
+![GitHub Actions run](images/Screenshot%202026-11-09%20143810.png)
 
 ### S3 bucket contents
-![S3 bucket objects](screenshots/s3-bucket-objects.png)
+![S3 bucket objects](images/Screenshot%202026-11-09%20142951.png)
 
 ### S3 bucket policy
-![S3 bucket policy](screenshots/s3-bucket-policy.png)
+![S3 bucket policy](images/Screenshot%202026-11-09%20142937.png)
 
 
 ## Author
