@@ -99,7 +99,7 @@ Place the workflow at `.github/workflows/main.yaml`, commit, and push to `main`.
 ## Screenshots
 
 ### Live portfolio
-![Live portfolio](screenshots/portfolio-live.png)
+![Live portfolio](images/Screenshot%202026-11-09%20143627.png)
 
 ### Successful GitHub Actions run
 ![GitHub Actions run](screenshots/github-actions-run.png)
